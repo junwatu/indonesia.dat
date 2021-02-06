@@ -2,4 +2,4 @@
 
 ## Provinsi
 
-- [List Nama Provinsi dan ID](Provinsi_Indonesia.csv)
+- [List Nama Provinsi, ID, Latitude & Longitude](Provinsi_Indonesia.csv)
